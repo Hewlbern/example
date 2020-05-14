@@ -5,7 +5,7 @@ import Router, { useRouter } from 'next/router';
 
 import Link from 'next/link'
 
-import Layout from "../../components/Layout";
+import Layout from "../../components/Layout/Layout";
 
 export default function Signup() {
 

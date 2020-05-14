@@ -3,6 +3,8 @@ import PropTypes from 'prop-types'
 import { get } from 'lodash/object'
 import Link from 'next/link'
 import Router from 'next/router'
+import fetch from 'isomorphic-unfetch';
+
 
 // Layouts
 import SearchBar from '../components/SearchBar';

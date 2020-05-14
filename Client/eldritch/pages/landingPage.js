@@ -6,7 +6,7 @@ import Router from 'next/router'
 
 // Layouts
 import SearchBar from '../components/SearchBar';
-import Layout from "../components/Layout";
+import Layout from "../components/Layout/Layout";
 
 export default function Home() {
   return (
